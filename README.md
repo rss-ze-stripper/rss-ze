@@ -1,1 +1,1 @@
-# stripper
+# RSS ZE STRIPPER
