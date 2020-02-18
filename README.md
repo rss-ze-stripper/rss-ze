@@ -6,6 +6,7 @@
 
 
 ## 보스허드에 관해서
+
 **math_counter, func_breakable, func_physbox 또는 func_physbox_multiplayer **를 먼저 찾아서 아래 형식에 맞게 보스 허드를 작성하고 
 [**__Hestia__**](https://steamcommunity.com/id/zemghestia/) <- 에게 보내주면 됩니다 .
 ```
