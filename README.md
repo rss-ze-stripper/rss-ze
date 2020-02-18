@@ -8,34 +8,7 @@
 보스허드에 관해서
 math_counter, func_breakable, func_physbox 또는 func_physbox_multiplayer 를 먼저 찾아서 아래 형식에 맞게 보스 허드를 작성하고 
 Hestia <- 에게 보내주면 됩니다 .
-"math_counter"
-{
-	"config" //선택 사항 해도 안해도 상관없는 부분 
-	{
-		"MultBoss"			"" //하나에 보스에 2개 이상의 보스 히트박스가 있는지 "1"로 허용.
-		"HitMarkerOnly"			"" //히트 마커랑 보스 랭킹만 보여줄건지 "1" 로 허용.
-		"BossBeatenShowTopDamage"	"" //보스가 죽고나서 바로 딜랭킹을 보여줄긴지 "1"로 허용.
-	}
-	"0"
-	{
-		//math_counter 예시
-		"HP_counter"		"" //math_counter 로 저장된 보스체력 targetname
-		"HPbar_counter"		"" //코스모 마냥 보스 체력 막대기가 머리 위에 있는경우에만 사용
-		"HPinit_counter"	"" //보스 체력 math_counter 에 넣어주기 이전에 체력을 측정하는 math_counter 가 있는 경우에만 사용
-		"CustomText"		"" //보스 이름 뭐라고 보여줄건지
-		"HPbar_min"		"" //보스 체력 막대기 math_counter 의 최소값 있는 경우에만 사용
-		"HPbar_max"		"" //보스 체력 막대기 math_counter 의 최대값 있는 경우에만 사용
-		"HPbar_default"		"" //보스 체력 막대기 math_counter 의 시작값 있는 경우에만 사용
-		"HPbar_mode"		"" //보스 체력 막대기에 주는 아웃풋이 OnHitMin이면 "1"OnHitMax이면 "2" 있는경우에만 사용
-	}
-	"1"
-	{
-		//func_breakable,func_physbox,func_physbox_multiplayer 예시
-		"Type"			"breakable" //건들필요 없음 
-		"BreakableName"		"" //func_breakable,func_physbox,func_physbox_multiplayer 들의 targetname
-		"CustomText"		"" //보스 이름 뭐라고 보여줄건지
-	}
-}
+
 
 스트리퍼에 관해서
 맵의 버전을 올리지 않고 맵 버그들을 수정할수 있게 하는 콘픽 파일 
