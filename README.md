@@ -2,7 +2,8 @@
 
 ## 카운터 스트라이크 글로벌 오펜시브 RSS 좀비탈출 서버를 위한 스트리퍼 , 스크립트 , 엔트와치 , 보스허드 파일 모음 깃 허브 
 
- 
+
+## 기본적으로 이러한 콘픽들을 만들기 위해선 [노트패드](https://www.techspot.com/downloads/2010-notepad.html)와 [BSPsrc](https://github.com/ata4/bspsrc/releases/tag/v1.3.24) 프로그램을 필요로 합니다. 
 
 
 ## 보스허드에 관해서
