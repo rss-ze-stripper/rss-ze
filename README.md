@@ -8,7 +8,6 @@
 보스허드에 관해서
 math_counter, func_breakable, func_physbox 또는 func_physbox_multiplayer 를 먼저 찾아서 아래 형식에 맞게 보스 허드를 작성하고 
 Hestia <- 에게 보내주면 됩니다 .
-
 "math_counter"
 {
 	"config" //선택 사항 해도 안해도 상관없는 부분 
@@ -37,6 +36,7 @@ Hestia <- 에게 보내주면 됩니다 .
 		"CustomText"		"" //보스 이름 뭐라고 보여줄건지
 	}
 }
+
 스트리퍼에 관해서
 맵의 버전을 올리지 않고 맵 버그들을 수정할수 있게 하는 콘픽 파일 
 포럼에 있는 Sj58320 님의 스트리퍼 공략글과 디스코드 #mapping 채널 및 스트리퍼 예제 파일들을 참조해서 만들수 있고 
