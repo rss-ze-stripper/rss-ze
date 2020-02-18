@@ -41,13 +41,13 @@
 
 ##스트리퍼에 관해서
 맵의 버전을 올리지 않고 맵 버그들을 수정할수 있게 하는 콘픽 파일 
-포럼에 있는 Sj58320 님의 스트리퍼 공략글과 디스코드 [#mapping](https://discord.gg/G5mTnd9)'s 채널 및 스트리퍼 예제 파일들을 참조해서 만들수 있고 
+포럼에 있는 Sj58320 님의 스트리퍼 공략글과 디스코드 [#mapping](https://discord.gg/G5mTnd9)' 채널 및 스트리퍼 예제 파일들을 참조해서 만들수 있고 
 이 역시 만들고 나서 **__Hestia__** <- 에게 주면 서버에 적용 시켜줍니다.
 
 
 
 ##엔트와치에 관해서
 아이템이 있는 맵들에 하얀색 글씨로 아이템을 누가 먹었는지 쿨타임은 어떠한지 보여주는 콘픽 파일
-포럼에 있는 엔트와치 [공략글과](http://rssgo.co.kr/web/index.php?_filter=search&mid=explan&search_target=title_content&search_keyword=%EC%97%94%ED%8A%B8%EC%99%80%EC%B9%98&document_srl=46715)'s  엔트와치 예제 파일들을 참조해서 만들수 있고 
+포럼에 있는 엔트와치 [공략글과](http://rssgo.co.kr/web/index.php?_filter=search&mid=explan&search_target=title_content&search_keyword=%EC%97%94%ED%8A%B8%EC%99%80%EC%B9%98&document_srl=46715)'  엔트와치 예제 파일들을 참조해서 만들수 있고 
 만들고 나서 **__Hestia__** **<- 에게 주면 서버에 적용 시켜줍니다.
 
